@@ -86,7 +86,7 @@ function displayPdf(pdfData) {
 				$("#tableContainer").empty().append(table);
 
 				// Exibe o JSON
-				//console.log(JSON.stringify(json));
+				console.log(JSON.stringify(json));
 			});
 		});
 	});
